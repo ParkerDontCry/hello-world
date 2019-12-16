@@ -1,2 +1,5 @@
 # hello-world
-new guy
+
+hey guys
+
+I am an odd college student with a nice guitar from China
